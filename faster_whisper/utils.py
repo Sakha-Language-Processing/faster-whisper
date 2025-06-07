@@ -29,6 +29,7 @@ _MODELS = {
     "distil-large-v3.5": "distil-whisper/distil-large-v3.5-ct2",
     "large-v3-turbo": "mobiuslabsgmbh/faster-whisper-large-v3-turbo",
     "turbo": "mobiuslabsgmbh/faster-whisper-large-v3-turbo",
+    "large-sah": "lab-ii/whisper-large-v3-ctranslate2"
 }
 
 
